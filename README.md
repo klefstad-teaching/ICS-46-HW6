@@ -26,7 +26,7 @@ following folder structure:
     └── <CLASSNAME>.h
 ```
 
-All submissions are done on [GradeScope](https://www.gradescope.com/).
+All submissions are done on [Gradescope](https://www.gradescope.com/).
 
 On GradeScope, go into your Account Settings, and link your GitHub account to Gradescope.
 
