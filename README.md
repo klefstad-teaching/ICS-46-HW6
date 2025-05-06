@@ -1,6 +1,6 @@
 # ICS 46: Homework 6
 
-Welcome to ICS 46 Homework 6! You will be implementing two trees.
+Welcome to ICS 46 Homework 6! You will be implementing a Binary Search Tre and an AVL Tree.
 
 **Links**
 - [Instructions](https://sites.google.com/view/ics-46-data-structures/homework-6)
